@@ -17,3 +17,18 @@ print(deleamefo_father_of_nations + x)
 
 
 # Data Types
+
+# bool: on or off, true or false, 0 or 1,
+# Dynamic Typing
+
+# Python uses dynamic typing, since its variables can change types readily.
+
+# Example below:
+
+awesomeness = True
+print(awesomeness)  # true
+
+# Special variable : NONE
+# None is to represent the ideal of nothingness
+
+# Declaring String
